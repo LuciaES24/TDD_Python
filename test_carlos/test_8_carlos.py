@@ -1,3 +1,5 @@
+from solucion_lucia_test_8 import *
+
 def test_palindromo():
     palindromo1 = "ana"
     palindromo2 = "alberto"
