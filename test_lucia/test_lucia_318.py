@@ -1,3 +1,4 @@
+from carlos_318 import *
 def test_palindromo():
     palabra1 = "hola"
     palabra2 = "uwu"
